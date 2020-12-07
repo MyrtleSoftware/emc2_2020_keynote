@@ -10,6 +10,6 @@
 
 **Slides**: [Link](https://github.com/MyrtleSoftware/emc2_2020_keynote/blob/master/Achieving%20Low-latency%20Speech%20Synthesis%20at%20Scale.pdf)
 
-**Slide 26, Blue Audio (with softmax + sampling)**: https://github.com/MyrtleSoftware/emc2_2020_keynote/blob/master/synthesized_sample.wav
+**Slide 26, Blue Audio (with softmax + sampling)**: [Link](https://github.com/MyrtleSoftware/emc2_2020_keynote/blob/master/synthesized_sample.wav)
 
-**Slide 26, Red Audio (mode)**: https://github.com/MyrtleSoftware/emc2_2020_keynote/blob/master/synthesized_sample.wav
+**Slide 26, Red Audio (mode)**: [Link](https://github.com/MyrtleSoftware/emc2_2020_keynote/blob/master/synthesized_sample.wav)
