@@ -8,6 +8,8 @@
 
 ---
 
+**Video**: [YouTube](https://www.youtube.com/watch?v=1KL049_jkac)
+
 **Slides**: [Link](https://github.com/MyrtleSoftware/emc2_2020_keynote/blob/master/Achieving%20Low-latency%20Speech%20Synthesis%20at%20Scale.pdf)
 
 **Slide 26, Blue Audio (with softmax + sampling)**: [Link](https://github.com/MyrtleSoftware/emc2_2020_keynote/blob/master/synthesized_sample.wav)
